@@ -16,5 +16,24 @@ namespace QuanLyNS
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHD_Click(object sender, EventArgs e)
+        {
+            frmQlyCongVanDen frmCVDen = new frmQlyCongVanDen();
+            this.Hide();
+            frmCVDen.ShowDialog();
+        }
+
+        private void btnPB_Click(object sender, EventArgs e)
+        {
+            frmQlyCongVanDi frmCVDi = new frmQlyCongVanDi();
+            this.Hide();
+            frmCVDi.ShowDialog();
+        }
     }
 }
