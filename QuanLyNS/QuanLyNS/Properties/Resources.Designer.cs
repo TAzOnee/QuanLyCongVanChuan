@@ -144,6 +144,16 @@ namespace QuanLyNS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap currency_money_purchase_retail_shop_wallet_icon_128 {
+            get {
+                object obj = ResourceManager.GetObject("currency_money_purchase_retail_shop_wallet_icon_128", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap document_extension_file_file_format_filename_text_txt_icon__20 {
             get {
                 object obj = ResourceManager.GetObject("document-extension-file-file-format-filename-text-txt-icon--20", resourceCulture);
@@ -187,6 +197,16 @@ namespace QuanLyNS.Properties {
         internal static System.Drawing.Bitmap icons8_embassy_100 {
             get {
                 object obj = ResourceManager.GetObject("icons8-embassy-100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_3_128 {
+            get {
+                object obj = ResourceManager.GetObject("login-3-128", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
